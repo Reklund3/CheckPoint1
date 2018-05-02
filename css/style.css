@@ -100,7 +100,6 @@ button{
 button:hover{
   background-color: white;
   color: red;
-  border-radius: -20px;
 }
 .toppicks{
   display: inline-flex;
